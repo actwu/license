@@ -1,1 +1,1 @@
-# licence
+# WEBOPL license 
